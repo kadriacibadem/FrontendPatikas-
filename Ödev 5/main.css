@@ -1,0 +1,58 @@
+
+.logo{
+    text-align: -webkit-center;
+}
+.search{
+    background-color:#EEEEEE;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 2px;
+}
+.search button{
+    margin-top:2px;
+    padding-top: 1px;
+}
+
+
+.bottom{
+    margin-top: 5px;
+    margin-left: 5%;
+    width: 90%;
+}
+.special-searches{
+    width: 35%;
+    float: left;
+    background-color: #7EE5DA;
+    text-align: center;
+    margin-top: 0px;
+    height: 68px;
+    padding-top: 18px;
+
+}
+
+.center{
+    margin-top: 0px;
+    padding-top: 8px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    background-color: #70CCC2;
+    height: 78px;
+    margin-left: 2px;
+    
+}
+.right{
+    margin-top: 0px;
+    background-color: #62B3AA;
+    width: 44.6%;
+    float:right;
+    text-align: center;
+    height: 86px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.copy{
+    text-align: center;
+    font-size: small;
+}
